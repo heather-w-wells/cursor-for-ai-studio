@@ -33,3 +33,7 @@ Use this repo as a low-stakes playground to:
 
 - [Cursor Documentation](https://docs.cursor.com/)
 - [Cursor Changelog](https://www.cursor.com/changelog)
+
+---
+
+*Last updated: August 20, 2026*
